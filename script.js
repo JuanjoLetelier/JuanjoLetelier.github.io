@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     </svg>
                 </span>
             </button>
-            <p class="custom-qr-text">Click para descargar PYMEsGPS</p>
+            <p class="custom-qr-text">Click para descargar ISEKAIapp</p>
         `;
 
         // Evento del botón
